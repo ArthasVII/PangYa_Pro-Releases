@@ -1,7 +1,7 @@
 {
-  "version": "2026.05.20-9",
-  "exe_url": "https://github.com/ArthasVII/PangYa_Pro-Releases/releases/download/v2026.05.20-9/PangYaPro.exe",
-  "exe_hash": "06AA124D25C0B0FE4A935BAD316A109B5370681E7AC6BED443932F07F3F75C0A",
+  "version": "2026.05.20-10",
+  "exe_url": "https://github.com/ArthasVII/PangYa_Pro-Releases/releases/download/v2026.05.20-10/PangYaPro.exe",
+  "exe_hash": "CC5D17B3093BB215D6EEECF02AF5B9888C01A801584C17F5D784D99F7D9A4436",
   "files": {
     "ReguaV2.py": "BAE03CAC88B3D802998037C7380DC007CAE8BE85B47107D49AED45994C4FB213",
     "ocr_worker.py": "08B0651700E91C0C82194AED8BD27AC0829681FA0133391A7D209A937962463D",
