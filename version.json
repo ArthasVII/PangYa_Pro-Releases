@@ -1,9 +1,9 @@
 {
-  "version": "2026.05.20-14",
-  "exe_url": "https://github.com/ArthasVII/PangYa_Pro-Releases/releases/download/v2026.05.20-14/PangYaPro.exe",
-  "exe_hash": "E11FD21D6C2E99F21146FC877417D537E6F0A2F8CAE22544FA844DB1077495C4",
+  "version": "2026.05.20-15",
+  "exe_url": "https://github.com/ArthasVII/PangYa_Pro-Releases/releases/download/v2026.05.20-15/PangYaPro.exe",
+  "exe_hash": "B200A7167133C09ABD7C0680D5C6A184139399EC42B1C43E23A241828750EE24",
   "files": {
-    "ReguaV2.py": "40129ABFFDA076F3D29A84B65C6ED0E2CA54BE0052358FB776D0720CA01CE9E8",
+    "ReguaV2.py": "7542B0B125AC3FFE0BAB8209EEEF7AF44672987B93C4E8143313BE46C40516A1",
     "ocr_worker.py": "08B0651700E91C0C82194AED8BD27AC0829681FA0133391A7D209A937962463D",
     "updater.py": "12AB1BF134956A015011287C5BF8712E781D0A3998540FD514B460AAE88471C9",
     "pangya_calc.py": "37FB1F90932718110669D8B29BD51A7305A2FC2A3B3F62F305E1ACEB2B13ECFD",
@@ -91,6 +91,6 @@
     "taco_templates/taco_PW.png": "AE2F523EBE2B17F003540DC515776AE86B8FF253AC754B88B623DB764B1EE179",
     "taco_templates/taco_SW.png": "B1E962F35181CA5696213DD5766512DBEDBFB76C5E6E07C520296682C02809D9"
   },
-  "release_date": "2026-05-22T08:30:00Z",
-  "release_notes": "Feat: auto-dimensionamento da janela overlay, icone de cadeado carregado sob demanda, layout redesenhado (altura 280 para Tacada + Q. Ball + Terreno)."
+  "release_date": "2026-05-22T21:30:00Z",
+  "release_notes": "Feat: sistema de sugestoes com webhook embutido, telemetria/ping background, beam power configuravel, upload de arquivos via multipart, botao limpar prints."
 }
