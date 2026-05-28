@@ -1,9 +1,9 @@
 {
-  "version": "2026.05.20-16",
-  "exe_url": "https://github.com/ArthasVII/PangYa_Pro-Releases/releases/download/v2026.05.20-16/PangYaPro.exe",
-  "exe_hash": "41504FE1E3EF4E08BF9CBFABE498B145C7BEF2A6EF12682DF7318D450F512E5C",
+  "version": "2026.05.20-17",
+  "exe_url": "https://github.com/ArthasVII/PangYa_Pro-Releases/releases/download/v2026.05.20-17/PangYaPro.exe",
+  "exe_hash": "4BCD5D22C3F8960109FDAE8B8F6E752ADC287D2D35BA6F2436B94A4ABD25C53C",
   "files": {
-    "ReguaV2.py": "AC38282DA9DF59799099A60D0BE0EEE60AD5D5C88F5BA56490E8BDC97D1B156D",
+    "ReguaV2.py": "52C73A56F9DDA94102CB21270014AF8B325DF0FF827FA2450E61269977DF6C43",
     "build.py": "3F3AC0703F3F16009F00ED6F070E10A076D0993D847AA86A7A5C6DFCB122A08C",
     "ocr_worker.py": "08B0651700E91C0C82194AED8BD27AC0829681FA0133391A7D209A937962463D",
     "updater.py": "12AB1BF134956A015011287C5BF8712E781D0A3998540FD514B460AAE88471C9",
@@ -92,6 +92,6 @@
     "taco_templates/taco_PW.png": "AE2F523EBE2B17F003540DC515776AE86B8FF253AC754B88B623DB764B1EE179",
     "taco_templates/taco_SW.png": "B1E962F35181CA5696213DD5766512DBEDBFB76C5E6E07C520296682C02809D9"
   },
-  "release_date": "2026-05-24T04:30:00Z",
-  "release_notes": "Feat: Beam 6i V2 (calibracao 140y), Beam Adaptativo (calculo dinamico por potencia do taco com interpolacao 140-152y), Beam Mesclado (mira adaptativa + forca V1). build.py refatorado com suporte a --installer (Inno Setup), --deps, --exe, --updater."
+  "release_date": "2026-05-28T15:50:00Z",
+  "release_notes": "Feat: Q. Ball (quebras) completo — rosa dos ventos 4 direcoes, zoom/pan no preview, marcadores amarelos, recalculo de PB por quebras com sensibilidade linear, overlay de spin com CTRL global, layout em dois paineis."
 }
