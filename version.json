@@ -1,9 +1,9 @@
 {
-  "version": "2026.05.20-18",
-  "exe_url": "https://github.com/ArthasVII/PangYa_Pro-Releases/releases/download/v2026.05.20-18/PangYaPro.exe",
-  "exe_hash": "E0532C4FAD89D2ACB46A33BB7598261231F8E4B2E094ED1185117D49B2427F26",
+  "version": "2026.05.20-19",
+  "exe_url": "https://github.com/ArthasVII/PangYa_Pro-Releases/releases/download/v2026.05.20-19/PangYaPro.exe",
+  "exe_hash": "D5A3376524210363E3549BA7BDD375FF0E95802DF3AB142533D3146811C5BE5B",
   "files": {
-    "ReguaV2.py": "6DFC230F5BDEEFDE30092371CDD1D1D099901C5C3777B3D28529CFC6BA284385",
+    "ReguaV2.py": "05FED9EF3FC813A0F664E5C8F705B7E6CBD4B8C57812AE3DA5F5F99B9E1DD188",
     "build.py": "3F3AC0703F3F16009F00ED6F070E10A076D0993D847AA86A7A5C6DFCB122A08C",
     "ocr_worker.py": "08B0651700E91C0C82194AED8BD27AC0829681FA0133391A7D209A937962463D",
     "updater.py": "12AB1BF134956A015011287C5BF8712E781D0A3998540FD514B460AAE88471C9",
@@ -92,6 +92,6 @@
     "taco_templates/taco_PW.png": "AE2F523EBE2B17F003540DC515776AE86B8FF253AC754B88B623DB764B1EE179",
     "taco_templates/taco_SW.png": "B1E962F35181CA5696213DD5766512DBEDBFB76C5E6E07C520296682C02809D9"
   },
-  "release_date": "2026-05-28T16:00:00Z",
-  "release_notes": "Feat: PNBeam 6i V2 — terreno multiplicativo (rough/grama escala forca proporcionalmente a distancia), offset por lookup table interpolado (calibrado contra planilha coreana com erro <0.1y), altura com ajuste 0.30/m, forca raw base 140y vs forca club escalonada por 140/club_max. V1/Mesclado merged (formula PNBeam funciona para todos os tacos)."
+  "release_date": "2026-05-28T17:30:00Z",
+  "release_notes": "Feat: Painel Q. Ball colapsavel (inicia oculto, toggle '>'), Tomahawk/Cobra/Spike sempre spin 7, Beam 6i sempre spin 0, deteccao de seta por extremidades (metodo mais robusto para pixels brancos), layout compacto inicial."
 }
