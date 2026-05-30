@@ -1,9 +1,9 @@
 {
-  "version": "2026.05.20-20",
-  "exe_url": "https://github.com/ArthasVII/PangYa_Pro-Releases/releases/download/v2026.05.20-20/PangYaPro.exe",
-  "exe_hash": "0DAE3769DB02AE15AA4B276CB091B9F428FFA50D6E351656FAB9522EE51A38CA",
+  "version": "2026.05.20-21",
+  "exe_url": "https://github.com/ArthasVII/PangYa_Pro-Releases/releases/download/v2026.05.20-21/PangYaPro.exe",
+  "exe_hash": "49049D75649C93BA91E212F3728CE5C470B8990B4C9784263FFE17CAF1C87836",
   "files": {
-    "ReguaV2.py": "D65054516D33328F846DFF0B91ADAF311BB7E51B6FEA0708AAF4583406ACD3A4",
+    "ReguaV2.py": "3738ECDA97918C16253CD2E9D68554F5E3AA1C26750EB14108E1B87AC40F802E",
     "build.py": "2422E7406E5A7B6FD75F103F58CB6C6A160359FAF5BAD6EEFFFCCF30EFD4DA41",
     "ocr_worker.py": "08B0651700E91C0C82194AED8BD27AC0829681FA0133391A7D209A937962463D",
     "updater.py": "12AB1BF134956A015011287C5BF8712E781D0A3998540FD514B460AAE88471C9",
@@ -92,6 +92,6 @@
     "taco_templates/taco_PW.png": "AE2F523EBE2B17F003540DC515776AE86B8FF253AC754B88B623DB764B1EE179",
     "taco_templates/taco_SW.png": "B1E962F35181CA5696213DD5766512DBEDBFB76C5E6E07C520296682C02809D9"
   },
-  "release_date": "2026-05-29T17:54:30Z",
-  "release_notes": "Fix: Remove pynput.keyboard.Listener (replace with GetAsyncKeyState polling), remove BlockInput(False), telemetry opt-in, add --nuitka build option, doc updates"
+  "release_date": "2026-05-30T08:00:00Z",
+  "release_notes": "Fix: Linha tracejada na régua agora aparece para clicks em qualquer lado (click != 0 em vez de click > 0)"
 }
